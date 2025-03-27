@@ -67,7 +67,7 @@ class AboutUsPage extends StatelessWidget {
                 ),
               ],
             ),
-            const SizedBox(height: 32), // Increased spacing
+            const SizedBox(height: 32), // Increased spacing 
             const Text(
               'Get in Touch',
               style: TextStyle(
